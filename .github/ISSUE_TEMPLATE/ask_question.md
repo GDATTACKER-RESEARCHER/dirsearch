@@ -1,6 +1,6 @@
 ---
 name: Ask Question
-about: Ask a question about dirsearch
+about: Ask a question about Dirsearch
 labels: question
 ---
 
@@ -13,4 +13,4 @@ What do you like to ask about?
 OS, dirsearch version, python version, screenshots, dirsearch command, console output, ...?
 
 #### Checker:
- - [ ] I read the documentation (README)
+ - [ ] I have read the documentation (README)
